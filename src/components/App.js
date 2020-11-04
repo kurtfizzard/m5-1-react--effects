@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import GlobalStyles from "./GlobalStyles";
 import Home from "./Home";
 import Game from "./Game";
+import Item from "./Item";
 
 function App(props) {
   return (
